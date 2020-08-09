@@ -25,7 +25,7 @@
 ### My Language Card
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ssrikanth4c&layout=compact)](https://github.com/Ssrikanth4c/)
 ### My GitHub Stats Card
-[![My github stats](https://github-readme-stats.vercel.app/api?username=Ssrikanth4c&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=prs,issues&show_owner=true)](https://github.com/Ssrikanth4c/)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=Ssrikanth4c&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=prs&show_owner=true)](https://github.com/Ssrikanth4c/)
 <!--
 #### Pinned
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ssrikanth4c&repo=redux-shopping-cart)](https://github.com/Ssrikanth4c/redux-shopping-cart)
