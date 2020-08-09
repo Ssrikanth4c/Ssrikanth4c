@@ -9,6 +9,19 @@
 - 🔭 I’m currently looking for a job
 - 📫 How to reach me: srikanthbinf@gmial.com
 
+#### Technologies and Tools:
+
+<p>
+  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/npm%20-%231572B6.svg?&style=for-the-badge&logo=npm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/slack%20-%23E34F26.svg?&style=for-the-badge&logo=slack&logoColor=white"/>
+  </p>
+
 ### My Language Card
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ssrikanth4c&layout=compact)](https://github.com/Ssrikanth4c/)
 ### My GitHub Stats Card
