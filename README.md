@@ -7,7 +7,7 @@
 -->
 - 🌱 i'm a Front End Developer Trainee at Masai School
 - 🔭 I’m currently looking for a job
-- 📫 How to reach me: srikanthbinf@gmial.com
+- 📫 How to reach me: srikanthbinf@gmail.com
 
 #### Technologies and Tools:
 
