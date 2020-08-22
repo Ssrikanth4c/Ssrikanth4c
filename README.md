@@ -22,9 +22,9 @@
   <img src="https://img.shields.io/badge/slack%20-%23E34F26.svg?&style=for-the-badge&logo=slack&logoColor=white"/>
   </p>
 
-### My Language Card
+### Language Card
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ssrikanth4c&layout=compact)](https://github.com/Ssrikanth4c/)
-### My GitHub Stats Card
+### GitHub Stats Card
 [![My github stats](https://github-readme-stats.vercel.app/api?username=Ssrikanth4c&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=prs&show_owner=true)](https://github.com/Ssrikanth4c/)
 <!--
 #### Pinned
