@@ -6,7 +6,7 @@
 **Ssrikanth4c/Ssrikanth4c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 - 🌱 i'm a Front End Developer Trainee at Masai School
-- 🔭 I’m currently looking for a job
+- 🔭 I’m currently working as a Front End Developer at AskAdmission.ai
 - 📫 How to reach me: srikanthbinf@gmail.com
 
 #### Technologies and Tools:
